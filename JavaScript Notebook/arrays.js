@@ -1,7 +1,7 @@
 // Javascript arrays
 
 //Index         0      1      2         //var/let initializes a variable
-var colors = ["red","green","blue"]     //An array is initializes with the use of []
+var colors = ["red","green","blue"]     //An array is initialized with the use of []
 //console.log(colors[0])                //Arrays can contain multiple contents of different data types
                                         
 
